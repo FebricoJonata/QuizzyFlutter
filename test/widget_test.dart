@@ -5,7 +5,6 @@
 // gestures. You can also use WidgetTester to find child widgets in the widget
 // tree, read text, and verify that the values of widget properties are correct.
 
-// ignore: unused_import
-import 'package:quizz_app/main.dart';
+
 
 void main() {}
